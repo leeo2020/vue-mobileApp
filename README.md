@@ -2,7 +2,7 @@
 ```bash
 vue create vue-webapp
 ```
-click事件ain改为touchstart事件
+click事件修改为touchstart事件
 
 
 //用户中心logout事件
